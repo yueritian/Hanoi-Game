@@ -1,5 +1,7 @@
 # Hanoi-Game
-2004年初学Java练手的小程序
+2004年初学Java练手的小程序，很丑，见谅。
+
+<img src="https://github.com/yueritian/Hanoi-Game/blob/master/docPics/page.png" width="500" alt="运行界面"/>
 
 ## 游戏规则
 >1. 请先选择层数再进行游戏
@@ -21,7 +23,7 @@
 >* 数据库使用。
 
 ## 变量说明
->* 最小塔长：   w1 = 10，
+>* 最小塔长：   w1 = 10，
 >* 其它塔长：   w2 = (2n-1)*10；
 >* 每个塔高：   h = 10;
 >* 最大x坐标： X1 = 70，
@@ -30,4 +32,10 @@
 >* 其它y坐标： Y2 = 207-(n-1)*(10+2) 
 >* 塔长成等差数列：  an=30+（n-1）*20= (2n-1)*10
 >* X坐标也成等差数列：an= 70-(n-1)*10
+>* 参看下图：
+>> <img src="https://github.com/yueritian/Hanoi-Game/blob/master/docPics/demo.png" width="200" alt="坐标值介绍"/>
 
+## 主要代码说明
+<img src="https://github.com/yueritian/Hanoi-Game/blob/master/docPics/0.png" width="500" alt="介绍"/>
+<img src="https://github.com/yueritian/Hanoi-Game/blob/master/docPics/1.png" width="500" alt="介绍"/>
+<img src="https://github.com/yueritian/Hanoi-Game/blob/master/docPics/2.png" width="500" alt="介绍"/>
